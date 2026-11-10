@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Database
+*.db
+
+# Environment
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+
+# MLflow
+mlruns/
+
+# Model artifacts
+ml_model/artifacts/
+*.pkl
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Data
+ieee-fraud-detection/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+node_modules
+dist/
